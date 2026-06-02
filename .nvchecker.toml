@@ -1,0 +1,4 @@
+[mdsx-git]
+source = "git"
+git = "https://github.com/86Box/mdsx.git"
+use_commit = "true"
